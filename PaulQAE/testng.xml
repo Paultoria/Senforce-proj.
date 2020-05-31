@@ -5,8 +5,9 @@
 		<classes>
 			<class name="testing_senforce.senforce_about_us" />
 			<class name="testing_senforce.senforce_product" />
+			<class name="testing_senforce.senforce_services" />
 			<class name="testing_senforce.senforce_client" />
 			<class name="testing_senforce.senforce_contact_us" />
-		</classes>
+		</classes>      
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
